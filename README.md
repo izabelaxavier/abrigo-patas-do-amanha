@@ -9,5 +9,5 @@ Site desenvolvido em HTML e CSS para divulgação e adoção de animais.
 - HTML5
 - CSS3
 
-## 👩‍💻 Desenvolvido por
-Izabela Xavier
+👩‍💻 Este projeto foi desenvolvido exclusivamente para fins acadêmicos (projeto de extensão).
+
