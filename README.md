@@ -2,7 +2,7 @@
 
 Site desenvolvido em HTML e CSS para divulgação e adoção de animais.
 
-🔗 **Site online:** https://izabelaxavier.github.io/nome-do-site  
+🔗 **Site online:**https://izabelaxavier.github.io/abrigo-patas-do-amanha/ 
 💻 **Código-fonte:** este repositório
 
 ## 🛠 Tecnologias
